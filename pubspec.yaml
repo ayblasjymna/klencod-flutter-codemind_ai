@@ -1,15 +1,22 @@
+
 name: codemind_ai
-description: A professional task manager built with Flutter.
+description: A professional AI assistant built with Flutter.
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=3.6.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
+
   shared_preferences: ^2.2.2
+
+  # Firebase
+  firebase_core: ^5.1.0
+  firebase_ai: ^5.1.0
+  firebase_app_check: ^0.5.1
 
 flutter:
   uses-material-design: true

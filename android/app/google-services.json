@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946429998387",
+    "project_id": "codemind-ai-2acac",
+    "storage_bucket": "codemind-ai-2acac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946429998387:android:498480b17ca0226683ba46",
+        "android_client_info": {
+          "package_name": "com.codemind.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaS-5LFq8zLyYrpZmF94sJ5iQQ993zy8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
